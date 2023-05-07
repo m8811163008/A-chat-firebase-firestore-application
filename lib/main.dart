@@ -32,7 +32,7 @@ class App extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         title: 'RayChat',
         theme: ThemeData(primaryColor: const Color(0xFF3D814A)),
-        // TODO: Add Consumer<UserDao> here
+
         home: Consumer<UserDao>(
           builder: (
             context,
