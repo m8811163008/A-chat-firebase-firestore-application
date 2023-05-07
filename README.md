@@ -1,4 +1,4 @@
-# raychat
+# Firebase Firestore chat application with Email/Password Authentication
 
 A reactive chat application.
 
